@@ -1,3 +1,5 @@
+github.com/aldwx/go-http-client v0.0.1 h1:6hnlw45no1dF8jq5mjk4Wr5N2CTcU5Gys8OtyphSJZk=
+github.com/aldwx/go-http-client v0.0.1/go.mod h1:rxgRNltqZYngAf9lLFAkp8W0rvkphTThcrSv9n28Srs=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
